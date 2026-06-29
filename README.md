@@ -33,6 +33,9 @@ curl http://localhost:8082/
 - `/api/stop` — 停止移动
 - `/api/release` — **释放控制权（必须调用）**
 
+> 更详细的接口说明请查阅模组目录内的 API.md 文件  
+>（订阅后位于 mods-unpacked/Wecraft-Brotato_HTTP_API/API.md）。  
+
 ## 与生成式 AI 协同
 
 将以下信息丢给 Claude Code、Copilot、Cursor 等工具，AI 就能直接操控游戏：
