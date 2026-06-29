@@ -1,0 +1,22 @@
+{
+  "name": "Brotato_HTTP_API",
+  "namespace": "Wecraft",
+  "version_number": "1.0.0",
+  "description": "Brotato Http Server",
+  "website_url": "",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "authors": ["Wecraft"],
+      "compatible_mod_loader_version": ["6.0.0"],
+      "compatible_game_version": ["1.1.14.6"],
+      "optional_dependencies": [],
+      "incompatibilities": [],
+      "load_before": [],
+      "tags": [],
+      "description_rich": "Brotato Http Server - 通过 RESTful API 实时控制和获取土豆兄弟游戏数据",
+      "config_schema": {},
+      "image": null
+    }
+  }
+}
